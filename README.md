@@ -1,6 +1,7 @@
 [![MasterHead](https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/full-stack-development.gif)](https://pushti-r.io)
 <h1 align="center">Hi 👋, I'm Pushti Ratanghayra</h1>
 <h3 align="center">A Passionate Web Developer from Mumbai</h3>
+<h3 align="center"> <a href="https://pushti-portfolio.netlify.app/" > Visit My Portfolio</a></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pushti-r&label=Profile%20views&color=0e75b6&style=flat" alt="pushti-r" /> </p>
 
@@ -14,11 +15,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img margin-left = "10px" src="https://github-profile-trophy.vercel.app/?username=pushti-r" alt="pushti-r" /></a> </p>
 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/pushti ratanghayra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pushti ratanghayra" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/pushti22" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="pushti22" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/pushti ratanghayra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="pushti ratanghayra" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/pushti-ratanghayra/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pushti ratanghayra" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/pushti22" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="pushti22" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/pushti ratanghayra" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="pushti ratanghayra" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
